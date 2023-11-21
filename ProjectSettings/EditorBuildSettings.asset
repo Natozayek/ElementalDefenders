@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/[Scenes]/MainMenuScene.unity
+    guid: 59c1bff37bf2e544d95b80dda3259f23
+  - enabled: 1
+    path: Assets/[Scenes]/Level1.unity
+    guid: f979df2971745764287db873a9915abe
+  - enabled: 1
+    path: Assets/[Scenes]/Level2.unity
+    guid: 00f31d03210ecc6459376b118c5de79a
+  - enabled: 1
+    path: Assets/[Scenes]/Level3.unity
+    guid: 995ba0ea3af0fa24cbf7fcb3993ea4ef
+  - enabled: 1
+    path: Assets/[Scenes]/WinEndScene.unity
+    guid: ef17930150c0ccc4cb2eb9c61df949a1
+  - enabled: 1
+    path: Assets/[Scenes]/GameOverScene.unity
+    guid: 57bdf2a88867280479947eea25be3ffa
+  - enabled: 1
+    path: Assets/[Scenes]/LevelSelectionScene.unity
+    guid: 4704e049eff1134418affb31f698fee1
+  - enabled: 1
+    path: Assets/[Scenes]/Enemy_ Encyclopedia.unity
+    guid: 5578893c971b7ef40be7a633a7170140
+  - enabled: 1
+    path: Assets/[Scenes]/SettingScene.unity
+    guid: 18290064835d3884d8ad7f5d685f9265
+  - enabled: 1
+    path: Assets/[Scenes]/Tower_ Encyclopedia.unity
+    guid: 1ff08f34f1542ad40b5bcb534f82fe9c
+  - enabled: 1
+    path: Assets/[Scenes]/Elements.unity
+    guid: 098c4817920f0914088e74ad0a6c5ece
+  - enabled: 1
+    path: Assets/[Scenes]/CreditScene.unity
+    guid: 9548e90a9e59a144abb2904324697f59
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: df6e5b6d3314f2444ab621a1cfc81fbf, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 0bd86f730168cf649b9768f71498f826, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 102edfa07ade02343ade194e2960e412, type: 2}

@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6566828018824810522
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1157106431640681248, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 3418091426015535786, guid: 1e8e532114058c44986877f5352aca2a, type: 3}
+    - target: {fileID: 3567279285941868987, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3567279285941868987, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.33709
+      objectReference: {fileID: 0}
+    - target: {fileID: 3567279285941868987, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.33709
+      objectReference: {fileID: 0}
+    - target: {fileID: 3567279285941868987, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.33709
+      objectReference: {fileID: 0}
+    - target: {fileID: 3567279285941868987, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.302
+      objectReference: {fileID: 0}
+    - target: {fileID: 3567279285941868987, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.537
+      objectReference: {fileID: 0}
+    - target: {fileID: 3567279285941868987, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.973
+      objectReference: {fileID: 0}
+    - target: {fileID: 3567279285941868987, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.11615181
+      objectReference: {fileID: 0}
+    - target: {fileID: 3567279285941868987, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3567279285941868987, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.9932315
+      objectReference: {fileID: 0}
+    - target: {fileID: 3567279285941868987, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3567279285941868987, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3567279285941868987, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 193.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 3567279285941868987, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236292066954232577, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_Name
+      value: Healer - Skeleton Version Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236292066954232577, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364020272213873905, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b9ea0f5af3732a340b4095ed5c6258cf, type: 3}
+    m_RemovedComponents:
+    - {fileID: 5223290550201353539, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+    - {fileID: 4993542290999277186, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4236292066954232577, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1417859756226362334}
+    - targetCorrespondingSourceObject: {fileID: 4236292066954232577, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3711415706776140106}
+    - targetCorrespondingSourceObject: {fileID: 4236292066954232577, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2679111818907584719}
+  m_SourcePrefab: {fileID: 100100000, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+--- !u!1 &7054988299609199387 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4236292066954232577, guid: f7f63eb42a4b8b747a724d6416fbd129, type: 3}
+  m_PrefabInstance: {fileID: 6566828018824810522}
+  m_PrefabAsset: {fileID: 0}
+--- !u!135 &1417859756226362334
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7054988299609199387}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 4
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &3711415706776140106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7054988299609199387}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1ca2bf08f5e3a74a837f9417e004f68, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Health: 6
+  OnDeath:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &2679111818907584719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7054988299609199387}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43362b4eef3b71e45861962c1a4bb250, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_enemiesToHeal: []

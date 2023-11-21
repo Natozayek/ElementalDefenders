@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbd49246ff7de784e98ab28da9c83f00, type: 3}
+  m_Name: Sound Collection
+  m_EditorClassIdentifier: Assembly-CSharp::SoundLibrary
+  Sounds:
+  - ID: EnemyDeath
+    Audio: {fileID: 8300000, guid: 5362bf7fee7ced64b94dbffe59b56b2f, type: 3}
+  - ID: BuildingComplete
+    Audio: {fileID: 8300000, guid: 1aeb529fae92fb04f82e7b41aa21a05d, type: 3}
+  - ID: TowerShooting
+    Audio: {fileID: 8300000, guid: ec74db32b39487e46b86a16e72064628, type: 3}
+  - ID: ConstructingTower
+    Audio: {fileID: 8300000, guid: 01a124e69141fcc4693bace13ee23a47, type: 3}
+  - ID: ButtonClick
+    Audio: {fileID: 8300000, guid: 22377731b074ce6488adc53c0f8003f9, type: 3}
+  Music:
+  - ID: BackgroundMusic
+    Audio: {fileID: 8300000, guid: b7e342d01486e074799ca5efc22e0c3d, type: 3}
+  - ID: Level2Music
+    Audio: {fileID: 8300000, guid: 4f7847b6ad1047040b070de1787297f7, type: 3}
+  - ID: MainMenuMusic
+    Audio: {fileID: 8300000, guid: 52d0fab275ccd2440b60a53f18c357db, type: 3}
+  - ID: LevelSelectionMusic
+    Audio: {fileID: 8300000, guid: be7de8c15cc1cee5685b2736ba2f1c3f, type: 3}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ce6d3e7d55aa86468eb6cc7dc295a37, type: 3}
+  m_Name: TowerData
+  m_EditorClassIdentifier: 
+  TowerData:
+  - towerID: Basic_Long
+    towerObject: {fileID: 3028387833352799148, guid: 93ac650b6529ef34789ca7228ccf8492, type: 3}
+  - towerID: Basic_Mid
+    towerObject: {fileID: 5747549200017244032, guid: 11180f91334cc0c47b555eabdc5d46dd, type: 3}
+  - towerID: Basic_Short
+    towerObject: {fileID: 6985121175531616382, guid: e582cad980a434d4b835bfbb8226147d, type: 3}
+  - towerID: Earth_Long
+    towerObject: {fileID: 7333388407166653096, guid: a00ee48b17fb2bf4f95e2c9c732e3ee9, type: 3}
+  - towerID: Earth_Mid
+    towerObject: {fileID: 3830396832708429837, guid: 54ae1cd2f62ac324db712e2389463be4, type: 3}
+  - towerID: Earth_Short
+    towerObject: {fileID: 8742814083180059694, guid: 0913ed5e28211254a9f636d1323a602b, type: 3}
+  - towerID: Fire_Long
+    towerObject: {fileID: 7333388407166653096, guid: 143894d850f2f1f43ba5b54064bfe7f4, type: 3}
+  - towerID: Fire_Med
+    towerObject: {fileID: 3830396832708429837, guid: ce1f23fe11b1c49449fb9d55c77c0f92, type: 3}
+  - towerID: Fire_Short
+    towerObject: {fileID: 8742814083180059694, guid: 4d6d629ae70349e4cb1005e30cba1a18, type: 3}
+  - towerID: Water_Long
+    towerObject: {fileID: 1427581398495838190, guid: 2c52123f5885be44d9bfb721a920800b, type: 3}
+  - towerID: Water_Med
+    towerObject: {fileID: 3830396832708429837, guid: 8dab1b0e4a99be644a1f27793566d689, type: 3}
+  - towerID: Water_Short
+    towerObject: {fileID: 2732725911593022380, guid: f4bf12f2b193a684e8a0a5a45265aa0e, type: 3}

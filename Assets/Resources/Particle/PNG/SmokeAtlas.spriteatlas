@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SmokeAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 763e3dc624477264984d2b3a3ebda9c1, type: 3}
+    - {fileID: 21300000, guid: 33263e1ef9c832c498851a7b07649941, type: 3}
+    - {fileID: 21300000, guid: 93c1ad4050292054cb79e8d4b9df2ee3, type: 3}
+    - {fileID: 21300000, guid: 6f09dd4c91e46ee4ebc90d1ef7f94c42, type: 3}
+    - {fileID: 21300000, guid: 57e66af5c5aa5ce439eb552621cbfe95, type: 3}
+    - {fileID: 21300000, guid: ec1ebbf08115e0b439513c8fb8e3793b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 93c1ad4050292054cb79e8d4b9df2ee3: 21300000
+    - ec1ebbf08115e0b439513c8fb8e3793b: 21300000
+    - 57e66af5c5aa5ce439eb552621cbfe95: 21300000
+    - 763e3dc624477264984d2b3a3ebda9c1: 21300000
+    - 6f09dd4c91e46ee4ebc90d1ef7f94c42: 21300000
+    - 33263e1ef9c832c498851a7b07649941: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 93c1ad4050292054cb79e8d4b9df2ee3, type: 3}
+  - {fileID: 21300000, guid: ec1ebbf08115e0b439513c8fb8e3793b, type: 3}
+  - {fileID: 21300000, guid: 57e66af5c5aa5ce439eb552621cbfe95, type: 3}
+  - {fileID: 21300000, guid: 763e3dc624477264984d2b3a3ebda9c1, type: 3}
+  - {fileID: 21300000, guid: 6f09dd4c91e46ee4ebc90d1ef7f94c42, type: 3}
+  - {fileID: 21300000, guid: 33263e1ef9c832c498851a7b07649941, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - blackSmoke02
+  - blackSmoke05
+  - blackSmoke04
+  - blackSmoke00
+  - blackSmoke03
+  - blackSmoke01
+  m_RenderDataMap: {}
+  m_Tag: SmokeAtlas
+  m_IsVariant: 0
