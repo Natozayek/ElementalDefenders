@@ -15,7 +15,9 @@ Getting Started
 Clone the repository and follow the installation steps in the Installation Guide.
 
 Contributors
+
 We welcome contributions! 
+
 Jakub A Kulawiak - 101251309@georgebrown.ca
 
 Austin Lim – aussio1234@gmail.com
